@@ -1,0 +1,373 @@
+2024-07-05 09:34:29.358 +04:00 [INF] User profile is available. Using 'C:\Users\samud\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-05 09:34:30.777 +04:00 [INF] Now listening on: https://localhost:7212
+2024-07-05 09:34:30.778 +04:00 [INF] Now listening on: http://localhost:5111
+2024-07-05 09:34:30.782 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-05 09:34:30.783 +04:00 [INF] Hosting environment: Development
+2024-07-05 09:34:30.784 +04:00 [INF] Content root path: C:\Users\samud\Desktop\Repo\GHotel.API\
+2024-07-05 09:34:31.568 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7212/swagger/index.html - -
+2024-07-05 09:34:32.191 +04:00 [INF] Request: GET /swagger/index.html 
+2024-07-05 09:34:32.194 +04:00 [INF] User IP: ::1
+2024-07-05 09:34:32.201 +04:00 [INF] Request received at: 7/5/2024 5:34:32 AM
+2024-07-05 09:34:32.570 +04:00 [INF] Response: 200 in 368ms
+2024-07-05 09:34:32.571 +04:00 [INF] Response sent at: 7/5/2024 5:34:32 AM
+2024-07-05 09:34:32.581 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7212/swagger/index.html - - - 200 - text/html;charset=utf-8 1023.1762ms
+2024-07-05 09:34:32.599 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7212/_vs/browserLink - -
+2024-07-05 09:34:32.600 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7212/_framework/aspnetcore-browser-refresh.js - -
+2024-07-05 09:34:32.639 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7212/_framework/aspnetcore-browser-refresh.js - - - 200 13756 application/javascript;+charset=utf-8 38.8067ms
+2024-07-05 09:34:32.877 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7212/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 277.6541ms
+2024-07-05 09:34:33.038 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7212/swagger/v1/swagger.json - -
+2024-07-05 09:34:33.040 +04:00 [INF] Request: GET /swagger/v1/swagger.json 
+2024-07-05 09:34:33.041 +04:00 [INF] User IP: ::1
+2024-07-05 09:34:33.042 +04:00 [INF] Request received at: 7/5/2024 5:34:33 AM
+2024-07-05 09:34:33.394 +04:00 [INF] Response: 200 in 351ms
+2024-07-05 09:34:33.396 +04:00 [INF] Response sent at: 7/5/2024 5:34:33 AM
+2024-07-05 09:34:33.397 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7212/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 359.7039ms
+2024-07-05 09:34:40.352 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7212/v1/Business - -
+2024-07-05 09:34:40.382 +04:00 [INF] Request: GET /v1/Business 
+2024-07-05 09:34:40.383 +04:00 [INF] User IP: ::1
+2024-07-05 09:34:40.385 +04:00 [INF] Request received at: 7/5/2024 5:34:40 AM
+2024-07-05 09:34:40.596 +04:00 [INF] Executing endpoint 'GHotel.API.Controllers.V1.BusinessController.GetAll (GHotel.API)'
+2024-07-05 09:34:40.698 +04:00 [INF] Route matched with {action = "GetAll", controller = "Business"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[GHotel.Application.Models.BusinessResponseModel]] GetAll(System.Threading.CancellationToken) on controller GHotel.API.Controllers.V1.BusinessController (GHotel.API).
+2024-07-05 09:47:55.701 +04:00 [INF] User profile is available. Using 'C:\Users\samud\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-05 09:47:56.669 +04:00 [INF] Now listening on: https://localhost:7212
+2024-07-05 09:47:56.670 +04:00 [INF] Now listening on: http://localhost:5111
+2024-07-05 09:47:56.674 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-05 09:47:56.675 +04:00 [INF] Hosting environment: Development
+2024-07-05 09:47:56.675 +04:00 [INF] Content root path: C:\Users\samud\Desktop\Repo\GHotel.API\
+2024-07-05 09:47:57.239 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7212/swagger/index.html - -
+2024-07-05 09:47:57.568 +04:00 [INF] Request: GET /swagger/index.html 
+2024-07-05 09:47:57.571 +04:00 [INF] User IP: ::1
+2024-07-05 09:47:57.581 +04:00 [INF] Request received at: 7/5/2024 5:47:57 AM
+2024-07-05 09:47:57.844 +04:00 [INF] Response: 200 in 262ms
+2024-07-05 09:47:57.846 +04:00 [INF] Response sent at: 7/5/2024 5:47:57 AM
+2024-07-05 09:47:57.866 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7212/_framework/aspnetcore-browser-refresh.js - -
+2024-07-05 09:47:57.881 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7212/_vs/browserLink - -
+2024-07-05 09:47:57.886 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7212/swagger/index.html - - - 200 - text/html;charset=utf-8 650.3731ms
+2024-07-05 09:47:57.892 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7212/_framework/aspnetcore-browser-refresh.js - - - 200 13756 application/javascript;+charset=utf-8 26.6128ms
+2024-07-05 09:47:58.084 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7212/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 202.7684ms
+2024-07-05 09:47:58.367 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7212/swagger/v1/swagger.json - -
+2024-07-05 09:47:58.370 +04:00 [INF] Request: GET /swagger/v1/swagger.json 
+2024-07-05 09:47:58.370 +04:00 [INF] User IP: ::1
+2024-07-05 09:47:58.371 +04:00 [INF] Request received at: 7/5/2024 5:47:58 AM
+2024-07-05 09:47:58.718 +04:00 [INF] Response: 200 in 347ms
+2024-07-05 09:47:58.719 +04:00 [INF] Response sent at: 7/5/2024 5:47:58 AM
+2024-07-05 09:47:58.720 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7212/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 353.0962ms
+2024-07-05 09:57:08.925 +04:00 [INF] User profile is available. Using 'C:\Users\samud\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-05 09:57:09.217 +04:00 [INF] Now listening on: https://localhost:7212
+2024-07-05 09:57:09.218 +04:00 [INF] Now listening on: http://localhost:5111
+2024-07-05 09:57:09.222 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-05 09:57:09.223 +04:00 [INF] Hosting environment: Development
+2024-07-05 09:57:09.223 +04:00 [INF] Content root path: C:\Users\samud\Desktop\Repo\GHotel.API\
+2024-07-05 09:57:10.300 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7212/swagger/index.html - -
+2024-07-05 09:57:10.565 +04:00 [INF] Request: GET /swagger/index.html 
+2024-07-05 09:57:10.567 +04:00 [INF] User IP: ::1
+2024-07-05 09:57:10.571 +04:00 [INF] Request received at: 7/5/2024 5:57:10 AM
+2024-07-05 09:57:10.730 +04:00 [INF] Response: 200 in 157ms
+2024-07-05 09:57:10.731 +04:00 [INF] Response sent at: 7/5/2024 5:57:10 AM
+2024-07-05 09:57:10.743 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7212/swagger/index.html - - - 200 - text/html;charset=utf-8 448.3706ms
+2024-07-05 09:57:10.758 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7212/_framework/aspnetcore-browser-refresh.js - -
+2024-07-05 09:57:10.758 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7212/_vs/browserLink - -
+2024-07-05 09:57:10.764 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7212/_framework/aspnetcore-browser-refresh.js - - - 200 13756 application/javascript;+charset=utf-8 6.0829ms
+2024-07-05 09:57:10.846 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7212/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 88.0452ms
+2024-07-05 09:57:10.897 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7212/swagger/v1/swagger.json - -
+2024-07-05 09:57:10.899 +04:00 [INF] Request: GET /swagger/v1/swagger.json 
+2024-07-05 09:57:10.900 +04:00 [INF] User IP: ::1
+2024-07-05 09:57:10.900 +04:00 [INF] Request received at: 7/5/2024 5:57:10 AM
+2024-07-05 09:57:11.120 +04:00 [INF] Response: 200 in 218ms
+2024-07-05 09:57:11.120 +04:00 [INF] Response sent at: 7/5/2024 5:57:11 AM
+2024-07-05 09:57:11.122 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7212/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 224.3960ms
+2024-07-05 10:21:57.380 +04:00 [INF] User profile is available. Using 'C:\Users\samud\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-05 10:21:57.859 +04:00 [INF] Now listening on: https://localhost:7212
+2024-07-05 10:21:57.862 +04:00 [INF] Now listening on: http://localhost:5111
+2024-07-05 10:21:57.865 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-05 10:21:57.867 +04:00 [INF] Hosting environment: Development
+2024-07-05 10:21:57.868 +04:00 [INF] Content root path: C:\Users\samud\Desktop\Repo\GHotel.API\
+2024-07-05 10:21:58.713 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7212/swagger/index.html - -
+2024-07-05 10:21:58.965 +04:00 [INF] Request: GET /swagger/index.html 
+2024-07-05 10:21:58.967 +04:00 [INF] User IP: ::1
+2024-07-05 10:21:58.974 +04:00 [INF] Request received at: 7/5/2024 6:21:58 AM
+2024-07-05 10:21:59.170 +04:00 [INF] Response: 200 in 195ms
+2024-07-05 10:21:59.171 +04:00 [INF] Response sent at: 7/5/2024 6:21:59 AM
+2024-07-05 10:21:59.184 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7212/swagger/index.html - - - 200 - text/html;charset=utf-8 473.1218ms
+2024-07-05 10:21:59.206 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7212/_framework/aspnetcore-browser-refresh.js - -
+2024-07-05 10:21:59.206 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7212/_vs/browserLink - -
+2024-07-05 10:21:59.214 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7212/_framework/aspnetcore-browser-refresh.js - - - 200 13756 application/javascript;+charset=utf-8 7.7410ms
+2024-07-05 10:21:59.305 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7212/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 98.5554ms
+2024-07-05 10:21:59.360 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7212/swagger/v1/swagger.json - -
+2024-07-05 10:21:59.362 +04:00 [INF] Request: GET /swagger/v1/swagger.json 
+2024-07-05 10:21:59.363 +04:00 [INF] User IP: ::1
+2024-07-05 10:21:59.363 +04:00 [INF] Request received at: 7/5/2024 6:21:59 AM
+2024-07-05 10:21:59.582 +04:00 [INF] Response: 200 in 217ms
+2024-07-05 10:21:59.583 +04:00 [INF] Response sent at: 7/5/2024 6:21:59 AM
+2024-07-05 10:21:59.584 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7212/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 224.4386ms
+2024-07-05 10:22:03.223 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7212/v1/Business - -
+2024-07-05 10:22:03.246 +04:00 [INF] Request: GET /v1/Business 
+2024-07-05 10:22:03.247 +04:00 [INF] User IP: ::1
+2024-07-05 10:22:03.248 +04:00 [INF] Request received at: 7/5/2024 6:22:03 AM
+2024-07-05 10:22:03.371 +04:00 [INF] Executing endpoint 'GHotel.API.Controllers.V1.BusinessController.GetAll (GHotel.API)'
+2024-07-05 10:22:03.416 +04:00 [INF] Route matched with {action = "GetAll", controller = "Business"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[GHotel.Application.Models.BusinessResponseModel]] GetAll(System.Threading.CancellationToken) on controller GHotel.API.Controllers.V1.BusinessController (GHotel.API).
+2024-07-05 10:22:08.316 +04:00 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[GHotel.Application.Models.BusinessResponseModel, GHotel.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-07-05 10:22:08.346 +04:00 [INF] Executed action GHotel.API.Controllers.V1.BusinessController.GetAll (GHotel.API) in 4920.8728ms
+2024-07-05 10:22:08.355 +04:00 [INF] Executed endpoint 'GHotel.API.Controllers.V1.BusinessController.GetAll (GHotel.API)'
+2024-07-05 10:22:08.360 +04:00 [INF] Response: 200 in 5111ms
+2024-07-05 10:22:08.361 +04:00 [INF] Response sent at: 7/5/2024 6:22:08 AM
+2024-07-05 10:22:08.378 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7212/v1/Business - - - 200 - application/json;+charset=utf-8 5154.9090ms
+2024-07-05 10:22:20.630 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7212/v1/Image/b1f1c0be-a56f-442d-ac6f-7eb47f9b5466.png - -
+2024-07-05 10:22:20.632 +04:00 [INF] Request: GET /v1/Image/b1f1c0be-a56f-442d-ac6f-7eb47f9b5466.png 
+2024-07-05 10:22:20.634 +04:00 [INF] User IP: ::1
+2024-07-05 10:22:20.635 +04:00 [INF] Request received at: 7/5/2024 6:22:20 AM
+2024-07-05 10:22:20.638 +04:00 [INF] Executing endpoint 'GHotel.API.Controllers.V1.ImageController.GetImage (GHotel.API)'
+2024-07-05 10:22:20.644 +04:00 [INF] Route matched with {action = "GetImage", controller = "Image"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetImage(System.String, System.Threading.CancellationToken) on controller GHotel.API.Controllers.V1.ImageController (GHotel.API).
+2024-07-05 10:22:20.818 +04:00 [INF] Executed action GHotel.API.Controllers.V1.ImageController.GetImage (GHotel.API) in 171.3824ms
+2024-07-05 10:22:20.821 +04:00 [INF] Executed endpoint 'GHotel.API.Controllers.V1.ImageController.GetImage (GHotel.API)'
+2024-07-05 10:22:21.219 +04:00 [ERR] {"Code":"NotFound","TraceId":"0HN4SNB33FGJ9:00000001","type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","title":"Resource Is Not Found","status":404,"detail":null,"instance":"/v1/Image/b1f1c0be-a56f-442d-ac6f-7eb47f9b5466.png","TraceId":"0HN4SNB33FGJ9:00000001"}
+Exception Message:Couldn't found the Image with Filename: b1f1c0be-a56f-442d-ac6f-7eb47f9b5466.png 
+InnerException:  
+Stack Trace:    at GHotel.Infrastructure.Utilities.ImageUtility.ReadImageFromFile(String imageFileUrl, CancellationToken cancellationToken) in C:\Users\samud\Desktop\Repo\GHotel.Infrastructure\Utilities\ImageUtility.cs:line 35
+   at GHotel.Application.Services.Image.ImageService.GetFile(String url, CancellationToken cancellationToken) in C:\Users\samud\Desktop\Repo\GHotel.Application\Services\Image\ImageService.cs:line 16
+   at GHotel.API.Controllers.V1.ImageController.GetImage(String url, CancellationToken cancellationToken) in C:\Users\samud\Desktop\Repo\GHotel.API\Controllers\V1\ImageController.cs:line 22
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at GHotel.API.Infrastructure.Middlewares.RequestResponseLoggingMiddleware.Invoke(HttpContext httpContext) in C:\Users\samud\Desktop\Repo\GHotel.API\Infrastructure\Middlewares\RequestResponseLoggingMiddleware.cs:line 32
+   at GHotel.API.Infrastructure.Middlewares.GlobalExceptionHandlingMiddleware.Invoke(HttpContext httpContext) in C:\Users\samud\Desktop\Repo\GHotel.API\Infrastructure\Middlewares\GlobalExceptionHandlingMiddleware.cs:line 21
+2024-07-05 10:22:21.224 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7212/v1/Image/b1f1c0be-a56f-442d-ac6f-7eb47f9b5466.png - - - 404 - application/json 594.3057ms
+2024-07-05 11:29:51.874 +04:00 [INF] User profile is available. Using 'C:\Users\samud\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-05 11:29:52.474 +04:00 [INF] Now listening on: https://localhost:7212
+2024-07-05 11:29:52.476 +04:00 [INF] Now listening on: http://localhost:5111
+2024-07-05 11:29:52.480 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-05 11:29:52.481 +04:00 [INF] Hosting environment: Development
+2024-07-05 11:29:52.482 +04:00 [INF] Content root path: C:\Users\samud\Desktop\Repo\GHotel.API\
+2024-07-05 11:29:53.230 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7212/swagger - -
+2024-07-05 11:29:53.479 +04:00 [INF] Request: GET /swagger 
+2024-07-05 11:29:53.484 +04:00 [INF] User IP: ::1
+2024-07-05 11:29:53.492 +04:00 [INF] Request received at: 7/5/2024 7:29:53 AM
+2024-07-05 11:29:53.638 +04:00 [INF] Response: 301 in 144ms
+2024-07-05 11:29:53.642 +04:00 [INF] Response sent at: 7/5/2024 7:29:53 AM
+2024-07-05 11:29:53.673 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7212/swagger - - - 301 0 - 446.0880ms
+2024-07-05 11:29:53.676 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7212/swagger/index.html - -
+2024-07-05 11:29:53.698 +04:00 [INF] Request: GET /swagger/index.html 
+2024-07-05 11:29:53.699 +04:00 [INF] User IP: ::1
+2024-07-05 11:29:53.701 +04:00 [INF] Request received at: 7/5/2024 7:29:53 AM
+2024-07-05 11:29:53.853 +04:00 [INF] Response: 200 in 150ms
+2024-07-05 11:29:53.854 +04:00 [INF] Response sent at: 7/5/2024 7:29:53 AM
+2024-07-05 11:29:53.857 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7212/swagger/index.html - - - 200 - text/html;charset=utf-8 181.2845ms
+2024-07-05 11:29:53.865 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7212/swagger/swagger-ui.css - -
+2024-07-05 11:29:53.866 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7212/swagger/swagger-ui-bundle.js - -
+2024-07-05 11:29:53.867 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7212/_framework/aspnetcore-browser-refresh.js - -
+2024-07-05 11:29:53.867 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7212/swagger/swagger-ui-standalone-preset.js - -
+2024-07-05 11:29:53.867 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7212/_vs/browserLink - -
+2024-07-05 11:29:53.872 +04:00 [INF] Request: GET /swagger/swagger-ui.css 
+2024-07-05 11:29:53.872 +04:00 [INF] Request: GET /swagger/swagger-ui-bundle.js 
+2024-07-05 11:29:53.877 +04:00 [INF] Request: GET /swagger/swagger-ui-standalone-preset.js 
+2024-07-05 11:29:53.879 +04:00 [INF] User IP: ::1
+2024-07-05 11:29:53.879 +04:00 [INF] User IP: ::1
+2024-07-05 11:29:53.880 +04:00 [INF] User IP: ::1
+2024-07-05 11:29:53.883 +04:00 [INF] Request received at: 7/5/2024 7:29:53 AM
+2024-07-05 11:29:53.881 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7212/_framework/aspnetcore-browser-refresh.js - - - 200 13756 application/javascript;+charset=utf-8 15.4252ms
+2024-07-05 11:29:53.882 +04:00 [INF] Request received at: 7/5/2024 7:29:53 AM
+2024-07-05 11:29:53.881 +04:00 [INF] Request received at: 7/5/2024 7:29:53 AM
+2024-07-05 11:29:53.960 +04:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-07-05 11:29:53.960 +04:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-07-05 11:29:53.972 +04:00 [INF] Response: 200 in 84ms
+2024-07-05 11:29:53.975 +04:00 [INF] Response sent at: 7/5/2024 7:29:53 AM
+2024-07-05 11:29:53.973 +04:00 [INF] Response: 200 in 89ms
+2024-07-05 11:29:53.979 +04:00 [INF] Response sent at: 7/5/2024 7:29:53 AM
+2024-07-05 11:29:53.980 +04:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-07-05 11:29:53.980 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7212/swagger/swagger-ui.css - - - 200 144929 text/css 115.0287ms
+2024-07-05 11:29:53.982 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7212/swagger/swagger-ui-standalone-preset.js - - - 200 312163 application/javascript 116.2386ms
+2024-07-05 11:29:53.991 +04:00 [INF] Response: 200 in 104ms
+2024-07-05 11:29:53.993 +04:00 [INF] Response sent at: 7/5/2024 7:29:53 AM
+2024-07-05 11:29:53.995 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7212/swagger/swagger-ui-bundle.js - - - 200 1061536 application/javascript 129.2016ms
+2024-07-05 11:29:54.011 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7212/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 143.8269ms
+2024-07-05 11:29:54.177 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7212/swagger/v1/swagger.json - -
+2024-07-05 11:29:54.178 +04:00 [INF] Request: GET /swagger/v1/swagger.json 
+2024-07-05 11:29:54.179 +04:00 [INF] User IP: ::1
+2024-07-05 11:29:54.181 +04:00 [INF] Request received at: 7/5/2024 7:29:54 AM
+2024-07-05 11:29:54.213 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7212/swagger/favicon-32x32.png - -
+2024-07-05 11:29:54.215 +04:00 [INF] Request: GET /swagger/favicon-32x32.png 
+2024-07-05 11:29:54.215 +04:00 [INF] User IP: ::1
+2024-07-05 11:29:54.218 +04:00 [INF] Request received at: 7/5/2024 7:29:54 AM
+2024-07-05 11:29:54.221 +04:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-07-05 11:29:54.223 +04:00 [INF] Response: 200 in 2ms
+2024-07-05 11:29:54.223 +04:00 [INF] Response sent at: 7/5/2024 7:29:54 AM
+2024-07-05 11:29:54.224 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7212/swagger/favicon-32x32.png - - - 200 628 image/png 11.2947ms
+2024-07-05 11:29:54.460 +04:00 [INF] Response: 200 in 278ms
+2024-07-05 11:29:54.462 +04:00 [INF] Response sent at: 7/5/2024 7:29:54 AM
+2024-07-05 11:29:54.463 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7212/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 286.1198ms
+2024-07-05 11:30:53.230 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7212/v1/Business - -
+2024-07-05 11:30:53.316 +04:00 [INF] Request: GET /v1/Business 
+2024-07-05 11:30:53.318 +04:00 [INF] User IP: ::1
+2024-07-05 11:30:53.322 +04:00 [INF] Request received at: 7/5/2024 7:30:53 AM
+2024-07-05 11:30:53.554 +04:00 [INF] Executing endpoint 'GHotel.API.Controllers.V1.BusinessController.GetAll (GHotel.API)'
+2024-07-05 11:30:53.650 +04:00 [INF] Route matched with {action = "GetAll", controller = "Business"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[GHotel.Application.Models.BusinessResponseModel]] GetAll(System.Threading.CancellationToken) on controller GHotel.API.Controllers.V1.BusinessController (GHotel.API).
+2024-07-05 11:31:01.034 +04:00 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[GHotel.Application.Models.BusinessResponseModel, GHotel.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-07-05 11:31:01.078 +04:00 [INF] Executed action GHotel.API.Controllers.V1.BusinessController.GetAll (GHotel.API) in 7409.5582ms
+2024-07-05 11:31:01.093 +04:00 [INF] Executed endpoint 'GHotel.API.Controllers.V1.BusinessController.GetAll (GHotel.API)'
+2024-07-05 11:31:01.099 +04:00 [INF] Response: 200 in 7775ms
+2024-07-05 11:31:01.101 +04:00 [INF] Response sent at: 7/5/2024 7:31:01 AM
+2024-07-05 11:31:01.139 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7212/v1/Business - - - 200 - application/json;+charset=utf-8 7909.1919ms
+2024-07-05 11:31:20.388 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7212/v1/Project/X2 Development - -
+2024-07-05 11:31:20.394 +04:00 [INF] Request: GET /v1/Project/X2%20Development 
+2024-07-05 11:31:20.396 +04:00 [INF] User IP: ::1
+2024-07-05 11:31:20.398 +04:00 [INF] Request received at: 7/5/2024 7:31:20 AM
+2024-07-05 11:31:20.401 +04:00 [INF] Executing endpoint 'GHotel.API.Controllers.V1.ProjectController.GetByName (GHotel.API)'
+2024-07-05 11:31:20.418 +04:00 [INF] Route matched with {action = "GetByName", controller = "Project"}. Executing controller action with signature System.Threading.Tasks.Task`1[GHotel.Application.Models.ProjectResponseModel] GetByName(System.String, System.Threading.CancellationToken) on controller GHotel.API.Controllers.V1.ProjectController (GHotel.API).
+2024-07-05 11:31:21.427 +04:00 [INF] Executed action GHotel.API.Controllers.V1.ProjectController.GetByName (GHotel.API) in 999.6298ms
+2024-07-05 11:31:21.432 +04:00 [INF] Executed endpoint 'GHotel.API.Controllers.V1.ProjectController.GetByName (GHotel.API)'
+2024-07-05 11:31:22.202 +04:00 [ERR] {"Code":"NotFound","TraceId":"0HN4SOH1B318E:00000001","type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","title":"Resource Is Not Found","status":404,"detail":null,"instance":"/v1/Project/X2%20Development","TraceId":"0HN4SOH1B318E:00000001"}
+Exception Message:Project not found 
+InnerException:  
+Stack Trace:    at GHotel.Application.Services.Project.ProjectService.GetByName(String name, CancellationToken cancellationToken) in C:\Users\samud\Desktop\Repo\GHotel.Application\Services\Project\ProjectService.cs:line 41
+   at GHotel.API.Controllers.V1.ProjectController.GetByName(String name, CancellationToken cancellationToken) in C:\Users\samud\Desktop\Repo\GHotel.API\Controllers\V1\ProjectController.cs:line 32
+   at lambda_method82(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at GHotel.API.Infrastructure.Middlewares.RequestResponseLoggingMiddleware.Invoke(HttpContext httpContext) in C:\Users\samud\Desktop\Repo\GHotel.API\Infrastructure\Middlewares\RequestResponseLoggingMiddleware.cs:line 32
+   at GHotel.API.Infrastructure.Middlewares.GlobalExceptionHandlingMiddleware.Invoke(HttpContext httpContext) in C:\Users\samud\Desktop\Repo\GHotel.API\Infrastructure\Middlewares\GlobalExceptionHandlingMiddleware.cs:line 21
+2024-07-05 11:31:22.208 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7212/v1/Project/X2 Development - - - 404 - application/json 1820.9705ms
+2024-07-05 11:32:01.551 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7212/v1/Project/Batumi Palace - -
+2024-07-05 11:32:01.555 +04:00 [INF] Request: GET /v1/Project/Batumi%20Palace 
+2024-07-05 11:32:01.556 +04:00 [INF] User IP: ::1
+2024-07-05 11:32:01.558 +04:00 [INF] Request received at: 7/5/2024 7:32:01 AM
+2024-07-05 11:32:01.562 +04:00 [INF] Executing endpoint 'GHotel.API.Controllers.V1.ProjectController.GetByName (GHotel.API)'
+2024-07-05 11:32:01.563 +04:00 [INF] Route matched with {action = "GetByName", controller = "Project"}. Executing controller action with signature System.Threading.Tasks.Task`1[GHotel.Application.Models.ProjectResponseModel] GetByName(System.String, System.Threading.CancellationToken) on controller GHotel.API.Controllers.V1.ProjectController (GHotel.API).
+2024-07-05 11:32:02.029 +04:00 [INF] Executing ObjectResult, writing value of type 'GHotel.Application.Models.ProjectResponseModel'.
+2024-07-05 11:32:02.093 +04:00 [INF] Executed action GHotel.API.Controllers.V1.ProjectController.GetByName (GHotel.API) in 525.6515ms
+2024-07-05 11:32:02.097 +04:00 [INF] Executed endpoint 'GHotel.API.Controllers.V1.ProjectController.GetByName (GHotel.API)'
+2024-07-05 11:32:02.099 +04:00 [INF] Response: 200 in 540ms
+2024-07-05 11:32:02.102 +04:00 [INF] Response sent at: 7/5/2024 7:32:02 AM
+2024-07-05 11:32:02.105 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7212/v1/Project/Batumi Palace - - - 200 - application/json;+charset=utf-8 554.3718ms
+2024-07-05 11:33:23.066 +04:00 [INF] Request starting HTTP/2 POST https://localhost:7212/v1/Project/Invest application/json 38
+2024-07-05 11:33:23.086 +04:00 [INF] CORS policy execution successful.
+2024-07-05 11:33:23.091 +04:00 [INF] Request: POST /v1/Project/Invest 
+2024-07-05 11:33:23.092 +04:00 [INF] User IP: ::1
+2024-07-05 11:33:23.093 +04:00 [INF] Request received at: 7/5/2024 7:33:23 AM
+2024-07-05 11:33:23.119 +04:00 [INF] Request body: {
+  "projectName": "",
+  "amount": 0
+}
+2024-07-05 11:33:23.144 +04:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-07-05 11:33:23.175 +04:00 [INF] AuthenticationScheme: Bearer was challenged.
+2024-07-05 11:33:23.177 +04:00 [INF] Response: 401 in 52ms
+2024-07-05 11:33:23.181 +04:00 [INF] Response sent at: 7/5/2024 7:33:23 AM
+2024-07-05 11:33:23.187 +04:00 [INF] Request finished HTTP/2 POST https://localhost:7212/v1/Project/Invest application/json 38 - 401 0 - 121.7064ms
+2024-07-05 11:33:44.622 +04:00 [INF] Request starting HTTP/2 POST https://localhost:7212/v1/User/Login application/json 74
+2024-07-05 11:33:44.727 +04:00 [INF] CORS policy execution successful.
+2024-07-05 11:33:44.739 +04:00 [INF] Request: POST /v1/User/Login 
+2024-07-05 11:33:44.748 +04:00 [INF] User IP: ::1
+2024-07-05 11:33:44.751 +04:00 [INF] Request received at: 7/5/2024 7:33:44 AM
+2024-07-05 11:33:44.753 +04:00 [INF] Request body: {
+  "email": "samudcherbak2018@gmail.com",
+  "password": "NewPassw12@1%"
+}
+2024-07-05 11:33:44.755 +04:00 [INF] Executing endpoint 'GHotel.API.Controllers.V1.UserController.Login (GHotel.API)'
+2024-07-05 11:33:44.760 +04:00 [INF] Route matched with {action = "Login", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.String] Login(GHotel.Application.Models.UserLoginRequestModel, System.Threading.CancellationToken) on controller GHotel.API.Controllers.V1.UserController (GHotel.API).
+2024-07-05 11:33:45.965 +04:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2024-07-05 11:33:45.968 +04:00 [INF] Executed action GHotel.API.Controllers.V1.UserController.Login (GHotel.API) in 1203.4209ms
+2024-07-05 11:33:45.971 +04:00 [INF] Executed endpoint 'GHotel.API.Controllers.V1.UserController.Login (GHotel.API)'
+2024-07-05 11:33:45.974 +04:00 [INF] Response: 200 in 1219ms
+2024-07-05 11:33:45.976 +04:00 [INF] Response sent at: 7/5/2024 7:33:45 AM
+2024-07-05 11:33:45.978 +04:00 [INF] Request finished HTTP/2 POST https://localhost:7212/v1/User/Login application/json 74 - 200 - text/plain;+charset=utf-8 1357.8663ms
+2024-07-05 11:34:00.704 +04:00 [INF] Request starting HTTP/2 POST https://localhost:7212/v1/Project/Invest application/json 38
+2024-07-05 11:34:00.712 +04:00 [INF] CORS policy execution successful.
+2024-07-05 11:34:00.715 +04:00 [INF] Request: POST /v1/Project/Invest 
+2024-07-05 11:34:00.717 +04:00 [INF] User IP: ::1
+2024-07-05 11:34:00.718 +04:00 [INF] Request received at: 7/5/2024 7:34:00 AM
+2024-07-05 11:34:00.720 +04:00 [INF] Request body: {
+  "projectName": "",
+  "amount": 0
+}
+2024-07-05 11:34:01.005 +04:00 [INF] Executing endpoint 'GHotel.API.Controllers.V1.ProjectController.Invest (GHotel.API)'
+2024-07-05 11:34:01.021 +04:00 [INF] Route matched with {action = "Invest", controller = "Project"}. Executing controller action with signature System.Threading.Tasks.Task Invest(GHotel.API.Models.InvestCreateModel, System.Threading.CancellationToken) on controller GHotel.API.Controllers.V1.ProjectController (GHotel.API).
+2024-07-05 11:34:01.227 +04:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2024-07-05 11:34:01.242 +04:00 [INF] Executed action GHotel.API.Controllers.V1.ProjectController.Invest (GHotel.API) in 217.1076ms
+2024-07-05 11:34:01.245 +04:00 [INF] Executed endpoint 'GHotel.API.Controllers.V1.ProjectController.Invest (GHotel.API)'
+2024-07-05 11:34:01.251 +04:00 [INF] Response: 400 in 529ms
+2024-07-05 11:34:01.252 +04:00 [INF] Response sent at: 7/5/2024 7:34:01 AM
+2024-07-05 11:34:01.254 +04:00 [INF] Request finished HTTP/2 POST https://localhost:7212/v1/Project/Invest application/json 38 - 400 - application/problem+json;+charset=utf-8 550.5852ms
+2024-07-05 11:44:35.059 +04:00 [INF] User profile is available. Using 'C:\Users\samud\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-05 11:44:36.557 +04:00 [INF] Now listening on: https://localhost:7212
+2024-07-05 11:44:36.559 +04:00 [INF] Now listening on: http://localhost:5111
+2024-07-05 11:44:36.568 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-05 11:44:36.570 +04:00 [INF] Hosting environment: Development
+2024-07-05 11:44:36.573 +04:00 [INF] Content root path: C:\Users\samud\Desktop\Repo\GHotel.API\
+2024-07-05 11:44:37.157 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7212/swagger/index.html - -
+2024-07-05 11:44:37.695 +04:00 [INF] Request: GET /swagger/index.html 
+2024-07-05 11:44:37.699 +04:00 [INF] User IP: ::1
+2024-07-05 11:44:37.707 +04:00 [INF] Request received at: 7/5/2024 7:44:37 AM
+2024-07-05 11:44:38.171 +04:00 [INF] Response: 200 in 462ms
+2024-07-05 11:44:38.177 +04:00 [INF] Response sent at: 7/5/2024 7:44:38 AM
+2024-07-05 11:44:38.201 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7212/_vs/browserLink - -
+2024-07-05 11:44:38.201 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7212/_framework/aspnetcore-browser-refresh.js - -
+2024-07-05 11:44:38.210 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7212/swagger/index.html - - - 200 - text/html;charset=utf-8 1064.7816ms
+2024-07-05 11:44:38.220 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7212/_framework/aspnetcore-browser-refresh.js - - - 200 13756 application/javascript;+charset=utf-8 19.1819ms
+2024-07-05 11:44:38.363 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7212/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 162.2963ms
+2024-07-05 11:44:38.425 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7212/swagger/v1/swagger.json - -
+2024-07-05 11:44:38.427 +04:00 [INF] Request: GET /swagger/v1/swagger.json 
+2024-07-05 11:44:38.428 +04:00 [INF] User IP: ::1
+2024-07-05 11:44:38.429 +04:00 [INF] Request received at: 7/5/2024 7:44:38 AM
+2024-07-05 11:44:38.875 +04:00 [INF] Response: 200 in 445ms
+2024-07-05 11:44:38.877 +04:00 [INF] Response sent at: 7/5/2024 7:44:38 AM
+2024-07-05 11:44:38.880 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7212/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 454.5821ms
+2024-07-05 11:57:55.733 +04:00 [INF] User profile is available. Using 'C:\Users\samud\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-05 11:57:56.297 +04:00 [INF] Now listening on: https://localhost:7212
+2024-07-05 11:57:56.300 +04:00 [INF] Now listening on: http://localhost:5111
+2024-07-05 11:57:56.305 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-05 11:57:56.305 +04:00 [INF] Hosting environment: Development
+2024-07-05 11:57:56.306 +04:00 [INF] Content root path: C:\Users\samud\Desktop\backendForGithub\GHotel.API\
+2024-07-05 11:57:57.477 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7212/swagger/index.html - -
+2024-07-05 11:57:57.792 +04:00 [INF] Request: GET /swagger/index.html 
+2024-07-05 11:57:57.794 +04:00 [INF] User IP: ::1
+2024-07-05 11:57:57.800 +04:00 [INF] Request received at: 7/5/2024 7:57:57 AM
+2024-07-05 11:57:58.019 +04:00 [INF] Response: 200 in 218ms
+2024-07-05 11:57:58.021 +04:00 [INF] Response sent at: 7/5/2024 7:57:58 AM
+2024-07-05 11:57:58.031 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7212/swagger/index.html - - - 200 - text/html;charset=utf-8 560.2192ms
+2024-07-05 11:57:58.051 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7212/_framework/aspnetcore-browser-refresh.js - -
+2024-07-05 11:57:58.058 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7212/_framework/aspnetcore-browser-refresh.js - - - 200 13756 application/javascript;+charset=utf-8 7.5106ms
+2024-07-05 11:57:58.166 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7212/_vs/browserLink - -
+2024-07-05 11:57:58.262 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7212/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 95.4850ms
+2024-07-05 11:57:58.763 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7212/swagger/v1/swagger.json - -
+2024-07-05 11:57:58.767 +04:00 [INF] Request: GET /swagger/v1/swagger.json 
+2024-07-05 11:57:58.769 +04:00 [INF] User IP: ::1
+2024-07-05 11:57:58.771 +04:00 [INF] Request received at: 7/5/2024 7:57:58 AM
+2024-07-05 11:57:59.054 +04:00 [INF] Response: 200 in 279ms
+2024-07-05 11:57:59.055 +04:00 [INF] Response sent at: 7/5/2024 7:57:59 AM
+2024-07-05 11:57:59.056 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7212/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 293.4898ms
+2024-07-05 11:58:10.068 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7212/v1/Business - -
+2024-07-05 11:58:10.115 +04:00 [INF] Request: GET /v1/Business 
+2024-07-05 11:58:10.116 +04:00 [INF] User IP: ::1
+2024-07-05 11:58:10.116 +04:00 [INF] Request received at: 7/5/2024 7:58:10 AM
+2024-07-05 11:58:10.321 +04:00 [INF] Executing endpoint 'GHotel.API.Controllers.V1.BusinessController.GetAll (GHotel.API)'
+2024-07-05 11:58:10.388 +04:00 [INF] Route matched with {action = "GetAll", controller = "Business"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[GHotel.Application.Models.BusinessResponseModel]] GetAll(System.Threading.CancellationToken) on controller GHotel.API.Controllers.V1.BusinessController (GHotel.API).
+2024-07-05 11:58:16.668 +04:00 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[GHotel.Application.Models.BusinessResponseModel, GHotel.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-07-05 11:58:16.688 +04:00 [INF] Executed action GHotel.API.Controllers.V1.BusinessController.GetAll (GHotel.API) in 6285.6114ms
+2024-07-05 11:58:16.700 +04:00 [INF] Executed endpoint 'GHotel.API.Controllers.V1.BusinessController.GetAll (GHotel.API)'
+2024-07-05 11:58:16.718 +04:00 [INF] Response: 200 in 6600ms
+2024-07-05 11:58:16.722 +04:00 [INF] Response sent at: 7/5/2024 7:58:16 AM
+2024-07-05 11:58:16.797 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7212/v1/Business - - - 200 - application/json;+charset=utf-8 6728.7773ms
